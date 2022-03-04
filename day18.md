@@ -1,0 +1,1 @@
+Struggled with the codecademy objects lesson. Didnt understand much of what was going on throughout and constantly used the hints 

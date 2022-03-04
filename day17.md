@@ -1,0 +1,1 @@
+feel good about loops so far. need to understand the i and when writing conditionals to add the name of the array or variable with the [i].

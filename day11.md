@@ -1,0 +1,1 @@
+I feel alright about the content, but i was walked through most of the content. I understand more about how the code will be written. 

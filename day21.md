@@ -1,0 +1,1 @@
+Felt alright doing the big review of all of the info that we had covered. some problems gave me issues but it was smaller fixes and attention to detail

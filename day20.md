@@ -1,0 +1,1 @@
+finished 2 projects, and felt good doing both. Had to complete html css and js for each and felt strong doing each 

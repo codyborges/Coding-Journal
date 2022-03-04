@@ -1,0 +1,1 @@
+feeling better about the conditionals and the functions. understand the basics off arrays and some array methods.

@@ -1,0 +1,1 @@
+I finished 4 different projects (recipe) (2 surveys) (hotel reservation). I felt good about the content. I didnt have to look up anything and have a solid grasp.

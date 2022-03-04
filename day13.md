@@ -1,0 +1,1 @@
+better grasp on conditionals and how to read instructions from before. Still need to get better with interpreting instructions and also learning the complete syntax for functions.. learn to pseudo code when doing a problem, it will be useful
