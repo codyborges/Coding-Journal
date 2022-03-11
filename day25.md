@@ -1,0 +1,1 @@
+finished the website for the steakhouse and pushed it to github. felt strong in my css styling. I was able to somewhat accurately use the template and recreate it with the help of partner

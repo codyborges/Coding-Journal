@@ -1,0 +1,1 @@
+Working on putting things on github, understand how to push things from the terminal.
